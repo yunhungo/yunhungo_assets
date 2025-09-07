@@ -1,0 +1,14 @@
+{
+  "name": "WatchMovieToken",
+  "symbol": "WMT",
+  "description": "WatchMovieToken is a Solana SPL token created for demo and community use.",
+  "image": "https://raw.githubusercontent.com/yunhungo/yunhungo_assets/main/icon/IconWatchMovieToken.png",
+  "attributes": [
+    { "trait_type": "project", "value": "WatchMovieToken" },
+    { "trait_type": "network", "value": "Solana" }
+  ],
+  "extensions": {
+    "website": "https://github.com/yunhungo",
+    "twitter": "https://x.com/yunhungo"
+  }
+}
